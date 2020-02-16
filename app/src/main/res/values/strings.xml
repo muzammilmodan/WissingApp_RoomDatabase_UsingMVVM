@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WissionApp</string>
+    <string name="exit_from_app_message">Are you sure you want to exit from the application?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="empty_user_name">Please enter user name.</string>
+    <string name="empty_user_email">Please enter user email.</string>
+    <string name="empty_valid_email">Please enter valid email.</string>
+    <string name="empty_user_phone">Please enter user phone no.</string>
+    <string name="empty_valid_phone">Phone length must be 10 digit long.</string>
+    <string name="user_list">User List</string>
+    <string name="user_list_not_found">User List Not Found</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+
+
+</resources>

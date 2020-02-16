@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0085c0</color>
+    <color name="colorPrimaryDark">#036B9B</color>
+    <color name="colorAccent">#0085c0</color>
+
+    <color name="hint">#45AFAEAE</color>
+    <color name="app_bg">#0085c0</color>
+    <color name="ddd">#666666</color>
+    <color name="progressing">#78c1e1</color>
+
+</resources>

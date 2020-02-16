@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "286518673837",
+    "firebase_url": "https://wissionapp-aa968.firebaseio.com",
+    "project_id": "wissionapp-aa968",
+    "storage_bucket": "wissionapp-aa968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286518673837:android:c20e0e8f153db5f12f6124",
+        "android_client_info": {
+          "package_name": "com.wission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286518673837-v0dm144mcpmgmvckip24046jgecqnl82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0B-14hsJG71w7UhTfjrrVfobSAh0Pevw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286518673837-v0dm144mcpmgmvckip24046jgecqnl82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
